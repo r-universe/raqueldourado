@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ahptopsis2n"]
+	path = ahptopsis2n
+	url = https://github.com/cran/ahptopsis2n
+	shallow = true
+	registered = true
+[submodule "sapevom"]
+	path = sapevom
+	url = https://github.com/cran/sapevom
+	shallow = true
+	registered = true
